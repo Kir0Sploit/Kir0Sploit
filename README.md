@@ -1,9 +1,9 @@
 <div align="center">
   <img width="auto" height="auto" src="./resources/images/mandalorian.gif"/>
-  <h3>A passionate cyber security enthusiast and a linguistics and communication student</h3>
+  <h1>A passionate cyber security enthusiast and a linguistics and communication student</h1>
 </div>
 
-  <img align="right" width="300" height="auto" src="./resources/images/coding-freak.gif"/>
+  <img align="right" width="300" height="300" src="./resources/images/coding-freak.gif"/>
 
 <div align="left">
   <samp>
