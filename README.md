@@ -3,7 +3,7 @@
   <h3>A passionate cyber security enthusiast and a linguistics and communication student</h3>
 </div>
 
-<img align="right" width="auto" height="auto" src="./resources/images/coding-freak.gif"/>
+<img align="right" width="350" height="auto" src="./resources/images/coding-freak.gif"/>
 
 <div align="left">
   <samp>
