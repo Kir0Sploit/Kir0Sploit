@@ -1,8 +1,15 @@
-<div align="center">
-  <img width="auto" height="auto" src="./resources/images/mandalorian.gif"/>
-  <h1>A passionate cyber security enthusiast and a linguistics and communication student</h1>
+<div id="header" align="center">
+	<img width="auto" height="auto" src="./resources/images/mandalorian.gif"/>
 </div>
 
+<div id="badges" align="center">
+	<a href="https://www.youtube.com/c/Kir0Sploit1337/">
+		<img src="https://shields.io/badge/youtube-FF0000.svg?logo=youtube&style=for-the-badge&logoColor=black" alt="Youtube"/>
+	</a>
+  <h2>A passionate cyber security enthusiast and a linguistics & communication student</h2>
+  </div>
+                                                                                                                       
+																																																											
   <img align="right" width="250" height="220" src="./resources/images/coding-freak.gif"/>
 
 <div align="left">
@@ -105,11 +112,18 @@
 		<a href="" target="_blank">
 			<img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=black"
 					 alt="Adobe Photoshop"/>
-		</a>
-		
-																
-		
+		</a>																			
   </div>
+			</details>
 
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Kir0Sploit&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+			 alt="https://github.com/Kir0Sploit"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kir0Sploit&theme=tokyonight&hide_border=true&locale=en"
+			 alt="https://github.com/Kir0Sploit"/>
+		</div>
   
-			
+<div align="center">
+  <img  src="./resources/svg/github-contribution-grid-snake.svg"
+    alt="Azamshah" />
+</div>
