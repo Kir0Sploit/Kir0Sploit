@@ -112,7 +112,19 @@
 		<a href="" target="_blank">
 			<img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=black"
 					 alt="Adobe Photoshop"/>
-		</a>																			
+		</a>
+		<a href="" target="_blank">
+			<img src="https://shields.io/badge/canva-00C4CC.svg?logo=canva&style=for-the-badge&logoColor=white"
+           alt="Canva"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://shields.io/badge/Virtualbox-183A61.svg?logo=virtualbox&style=for-the-badge&logoColor=white"
+           alt="VirtualBox"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://shields.io/badge/vmware-607078.svg?logo=vmware&style=for-the-badge&logoColor=yellow"
+           alt="VMware Workstation Player"/>
+    </a>
   </div>
 			</details>
 
