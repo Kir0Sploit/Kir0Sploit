@@ -6,7 +6,7 @@
 	<a href="https://www.youtube.com/c/Kir0Sploit1337/">
 		<img src="https://shields.io/badge/youtube-FF0000.svg?logo=youtube&style=for-the-badge&logoColor=black" alt="Youtube"/>
 	</a>
-  <h2>A passionate cyber security enthusiast and a linguistics & communication student</h2>
+  <h2>A self taught cybersecurity enthusiast</h2>
   </div>
                                                                                                 																												
   <img align="right" width="250" height="220" src="./resources/images/coding-freak.gif"/>
