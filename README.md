@@ -21,7 +21,7 @@
 
 ```yaml
 name: Kir0Sploit
-location: Johor, Malaysia
+location: Shah Alam, Malaysia
 current_focus: Cybersecurity & Ethical Hacking
 interests:
   - Penetration Testing
